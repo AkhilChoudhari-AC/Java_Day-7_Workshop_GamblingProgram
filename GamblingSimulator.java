@@ -2,6 +2,10 @@ package Day7WorkshopProgram;
 
 public class GamblingSimulator {
     public static void main(String[] args) {
-        System.out.println("Welcome to the Gambling Simulator Program");
+       // Every day stakes = 100$
+        int Stake = 100;
+       // Every game bet = 1$
+        int bet = 1;
+
     }
 }
